@@ -1,4 +1,4 @@
-# TBC
+# TBC 워크북
 
 [따라하며 배우는 C언어](https://www.inflearn.com/course/following-c)의 코딩 워크북입니다.
 
